@@ -72,7 +72,7 @@ The tasks are structured to evaluate your ability to:
 
 ---
 
-### Part 3: Sending Transactions (7 pts)
+### Part 3: Sending Transactions (4 pts)
 
 #### 1. **Create a Send Transaction Page** (4 pts)
 
@@ -117,4 +117,4 @@ The tasks are structured to evaluate your ability to:
 
 ---
 
-Note: The final score for students is calculated out of 22 points, with additional bonus points available to exceed this total.
+Note: The final score for students is calculated out of 25 points, with additional bonus points available to exceed this total.
